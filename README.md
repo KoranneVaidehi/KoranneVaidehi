@@ -1,108 +1,112 @@
-# Hi 👋, I'm Vaidehi ✨  
-**Aspiring Software Engineer | GenAI + Backend Development Enthusiast**
+# 👋 Hi, I’m Vaidehi
 
-🚀 I'm a B.Tech Computer Science Engineering student passionate about building **scalable, intelligent, and real-world software**.  
-I love working on **Django + MongoDB backend systems** and exploring **AI tools like LangChain, RAG, and LLM workflows**.
+### Software Engineering Student • Backend Systems • Exploring GenAI
 
 ---
 
-## 🚀 The Mission  
-> **"Engineering > Coding."**  
-
-I’m focused on becoming a strong **Software Engineer + AI Developer** who can build production-ready systems and solve high-impact problems.
-
-- 🧠 **Algorithmic Problem Solver**: DSA, complexity analysis, and consistent problem-solving  
-- 🤖 **AI Builder**: Learning **LangChain, GenAI**  
-- 🌐 **Backend Developer**: Django-based structured APIs + authentication + databases  
-- ⚙️ **Engineering Mindset**: Clean code, maintainability, and real-world deployment  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6A9CFD&center=true&vCenter=true&width=500&lines=Backend+Developer;Learning+GenAI;Django+%2B+MongoDB;Thinking+in+Systems" />
+</p>
 
 ---
 
-## 🌟 About Me
-- 🎓 CSE Student  
-- 🤖 Exploring **AI, LangChain, GenAI, and LLM-based applications**
-- 🧠 Currently focusing on **DSA & Problem Solving**
-- 🌐 Interested in **Backend Development + AI/NLP systems**
-- 🛠️ Love building **student productivity & campus helper apps**
-- ✨ Goal: Become a strong **Software Engineer + AI Developer**
+## 🧭 How I Think
+
+I’m not trying to rush into everything.
+I prefer **understanding deeply → building properly → improving continuously**.
+
+I’m working towards becoming someone who can:
+
+* design systems that actually **work at scale**
+* write code that is **clean, readable, and intentional**
+* use AI as a **system component**, not just a tool
 
 ---
 
+## ⚙️ What I Work On
 
-## 🛠️ Tech Stack  
+* Backend systems using **Django**
+* Database design with **MongoDB**
+* Exploring **LLM-based applications (LangChain, RAG)**
+* Practicing **DSA** to improve problem-solving clarity
 
-### 💻 Languages  
-- Python 🐍  
-- JavaScript  
-- C++  
-- Java  
-- C  
-
-### ⚙️ Frameworks / Backend  
-- Django  
-
-### 🗄️ Databases  
-- MongoDB Atlas  
-- SQLite  
-
-### 🛠️ Tools  
-- Git, GitHub  
-- VS Code  
-- Jupyter Notebook  
-- Antigravity  
-
-### 🤖 AI / GenAI  
-- LangChain  
-- Groq API  
-- LLM-powered apps (learning)  
-- NLP basics  
+I enjoy building things that are **useful, structured, and practical**.
 
 ---
 
-## 📌 Featured Projects (Few Highlights)
+## 🧠 What I’m Learning
 
-🔹 **CampusEase**  
-Multilingual AI-powered campus assistant  
-- Built with **Django + NLP**
-- Helps students access timetables, notes, circulars, and faculty info
-
-🔹 **LangChain + GenAI Learnings**  
-My hands-on experiments with LangChain + Groq API  
-- Prompts, chains, tools, and mini projects  
-- Notebook-based learning repo  
-
-🔹 **Django Mongo Authentication**  
-Custom authentication backend using Django + MongoDB Atlas  
-- Secure login/registration structure  
-- MongoDB integration practice  
-
-🔹 **MongoCRUD / MongoDB Learning Journey**  
-MongoDB practice repo  
-- CRUD, aggregation, indexing, and Atlas setup  
+* **DSA** → to think better, not just solve problems
+* **Backend Engineering** → to understand real systems
+* **GenAI** → to explore how software is evolving
+* **System Design (basics)** → to connect everything together
 
 ---
 
-## 📊 What I’m Currently Working On
-- Building small but solid **LangChain + GenAI projects**
-- Improving my **backend development** skills
-- Strengthening **DSA + problem-solving consistency**
-- Exploring **Cloud (Azure)**
+## 🛠️ Tools I Use
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=java\&logoColor=white)
+
+### ⚙️ Backend & Database
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square\&logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square\&logo=sqlite\&logoColor=white)
+
+### 🤖 GenAI (Learning)
+
+![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-blue?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-orange?style=flat-square)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
 
 ---
 
-## 🎯 Career Vision  
-> “Great engineers are defined by the scale of problems they solve.”
+## ⚡ GitHub Snapshot
 
-I’m continuously sharpening my skills in **DSA, AI, backend engineering, and system design** to prepare for strong software roles.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-⭐ **Mission:** Become an engineer who builds technology that truly matters.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: [Vaidehi Koranne](https://www.linkedin.com/in/vaidehi-koranne/)
+## 🎯 Direction
+
+I’m working toward becoming a **software engineer who can build complete systems**, not just isolated features.
+
+That means:
+
+* strong fundamentals
+* practical implementation
+* and the ability to think beyond tutorials
 
 ---
 
-✨ *"First understand deeply. Then build elegantly."*  
-⭐ If you like my work, consider giving a star!
+## 🤝 Connect
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaidehi%20Koranne-blue?style=flat-square\&logo=linkedin)
+
+---
+
+## ✨
+
+> *"First understand deeply. Then build elegantly."*
